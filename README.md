@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jainil</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 ---
 🎓 Computer Engineering student at GEC Bharuch  <br>🔭 I’m currently working on backend development using Advanced Java  <br>🌱 Currently diving deeper into data science, deep learning, and backend engineering  <br>💬 Ask me about computer vision, ML model building, or core Java concepts  <br>🧠 Skilled in building machine learning and deep learning models with a focus on computer vision  <br>👨‍💻 Core programming languages: Java and Python  <br>🛠️ Tools I work with: VS Code, Eclipse, Google Colab, and Kaggle  <br>📫 Reach me at: **jainilpatel738@gmail.com**  <br>🔗 Pronouns: **he/him**
