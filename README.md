@@ -23,7 +23,7 @@
 ```python
 class JainilPatel:
     def __init__(self):
-        self.role         = "AI Engineer @ Ginn Techlabs | Data Researcher Intern @ Collegedunia"
+        self.role         = "AI Engineer @ Ginn Techlabs | Generative AI Engineer @ Ginn Techlabs"
         self.location     = "Ahmedabad, India"
         self.education    = "B.E. Computer Engineering — GEC Bharuch (CGPA: 8.74)"
         self.focus        = ["Agentic AI (LangGraph)", "RAG Architectures", "LLM Fine-tuning", "Computer Vision"]
