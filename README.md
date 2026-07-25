@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class JainilPatel:
@@ -34,16 +34,16 @@ class JainilPatel:
         return "jainilpatel738@gmail.com"
 ```
 
-- 🔭 Building **agentic pipelines, RAG systems, and CV models** that go beyond the notebook and into production
-- 🏆 **Kaggle Rank Contributor** — 20+ notebooks, 6+ datasets published
-- 🥈 **IEEE InfoPixel Clash Hackathon** — 2nd Rank &nbsp;|&nbsp; 🏁 **IEEE SSH 2024** — National Finalist &nbsp;|&nbsp; 🎯 **ICPC Amritapuri Regional** — Qualified
-- ✍️ Co-authoring a research paper currently under editorial review
-- 💬 Ask me about **LangGraph, RAG pipelines, LoRA/QLoRA fine-tuning, or vector databases**
-- ⚡ Fun fact: I've turned Batman into an exam assistant and taught a model to read sign language
+-  Building **agentic pipelines, RAG systems, and CV models** that go beyond the notebook and into production
+-  **Kaggle Rank Contributor** — 20+ notebooks, 6+ datasets published
+-  **IEEE InfoPixel Clash Hackathon** — 2nd Rank &nbsp;|&nbsp; 🏁 **IEEE SSH 2024** — National Finalist &nbsp;|&nbsp; 🎯 **ICPC Amritapuri Regional** — Qualified
+-  Co-authoring a research paper currently under editorial review
+-  Ask me about **LangGraph, RAG pipelines, LoRA/QLoRA fine-tuning, or vector databases**
+-  Fun fact: I've turned Batman into an exam assistant and taught a model to read sign language
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -85,20 +85,20 @@ class JainilPatel:
 
 ---
 
-## 🚀 Featured Builds
+##  Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ [Lexora AI](https://github.com/Jainil570/Lexora-AI)
+###  [Lexora AI](https://github.com/Jainil570/Lexora-AI)
 **Agentic Legal Copilot for Indian Startups**
 
 Multi-agent LangGraph pipeline that drafts investor-safe NDAs, founder agreements & ESOP policies with built-in AI risk analysis.
 
-- 📉 Cut contract drafting time by **70%** across 5+ document types
-- 🎯 **91%** clause retrieval accuracy via ChromaDB RAG over 120+ clauses
-- 🧠 Reduced hallucinated clauses by **85%** using grounded Qwen2.5 generation
+-  Cut contract drafting time by **70%** across 5+ document types
+-  **91%** clause retrieval accuracy via ChromaDB RAG over 120+ clauses
+-  Reduced hallucinated clauses by **85%** using grounded Qwen2.5 generation
 
 `Next.js` `FastAPI` `LangGraph` `ChromaDB` `Ollama` `Docker`
 
@@ -107,14 +107,14 @@ Multi-agent LangGraph pipeline that drafts investor-safe NDAs, founder agreement
 </td>
 <td width="50%" valign="top">
 
-### 🦇 [Batman AI](https://github.com/Jainil570/Batman-Ai---Exam-Assistant)
+###  [Batman AI](https://github.com/Jainil570/Batman-Ai---Exam-Assistant)
 **RAG-Powered Exam Assistant**
 
 A cinematic, privacy-first exam companion that turns massive PDFs into interactive, high-speed intelligence — locally.
 
-- 🎯 **94%** retrieval precision on 500+ PDFs (FastAPI + FAISS)
-- 🧮 QLoRA fine-tuned LLaMA 3.1 cut reasoning errors by **38%**
-- ⚡ Sub-50ms streaming inference via vLLM + WebSockets
+-  **94%** retrieval precision on 500+ PDFs (FastAPI + FAISS)
+-  QLoRA fine-tuned LLaMA 3.1 cut reasoning errors by **38%**
+-  Sub-50ms streaming inference via vLLM + WebSockets
 
 `RAG` `FAISS` `LLaMA 3.1` `QLoRA` `Redis` `MLflow`
 
@@ -125,14 +125,14 @@ A cinematic, privacy-first exam companion that turns massive PDFs into interacti
 <tr>
 <td width="50%" valign="top">
 
-### 🤟 [SignAura](https://github.com/Jainil570/SignAura-ai)
+###  [SignAura](https://github.com/Jainil570/SignAura-ai)
 **Real-Time Sign Language Translator**
 
 A CNN+GRU bridge that turns hand gestures into text and speech, instantly — giving silence a voice.
 
-- 🎯 **98%** static / **95%** dynamic accuracy on 10k+ gesture dataset
-- ⚡ Sub-50ms inference by fusing MediaPipe landmarks with TTS
-- 🔍 Fairness-evaluated across 3 regional school datasets
+-  **98%** static / **95%** dynamic accuracy on 10k+ gesture dataset
+-  Sub-50ms inference by fusing MediaPipe landmarks with TTS
+-  Fairness-evaluated across 3 regional school datasets
 
 `CNN` `GRU` `MediaPipe` `Flask` `Computer Vision`
 
@@ -141,14 +141,14 @@ A CNN+GRU bridge that turns hand gestures into text and speech, instantly — gi
 </td>
 <td width="50%" valign="top">
 
-### 🕸️ [FraudGraph](https://github.com/Jainil570/FraudGraph)
+###  [FraudGraph](https://github.com/Jainil570/FraudGraph)
 **Graph Neural Intelligence Against Financial Fraud**
 
 A Graph Convolutional / Graph Neural Network approach to catching fraudulent transactions that tabular models miss.
 
-- 🧠 Models transactions as graphs to expose relational fraud rings
-- 🔬 Built with PyTorch Geometric-style GCN/GNN pipelines
-- 📦 MIT licensed, open for contributions
+-  Models transactions as graphs to expose relational fraud rings
+-  Built with PyTorch Geometric-style GCN/GNN pipelines
+-  MIT licensed, open for contributions
 
 `PyTorch` `GNN` `GCN` `Fraud Detection`
 
@@ -159,26 +159,26 @@ A Graph Convolutional / Graph Neural Network approach to catching fraudulent tra
 </table>
 
 <details>
-<summary><b>📦 More builds worth a look</b></summary>
+<summary><b> More builds worth a look</b></summary>
 <br/>
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎬 [TMDB Movieflix Chatbot](https://github.com/Jainil570/TMDB-Movieflix-Chatbot) | Conversational movie-discovery engine that understands vibe, not just keywords | `Python` `LLM` `RAG` `FAISS` |
-| 🧑‍💼 [TalentScout](https://github.com/Jainil570/TalentScout) | Conversational AI hiring assistant that generates custom technical challenges | `Streamlit` `Python` `LLM` |
-| 📊 [Financial Document Analyzer](https://github.com/Jainil570/Financial-Document-Analyzer) | CrewAI agent dissecting financial PDFs via an async worker queue | `CrewAI` `Redis` `Celery` |
-| 🔍 [PCB Defect Detection](https://github.com/Jainil570/PCB-Defect-Detection) | YOLOv8-based defect scanner running industrial inspection at 140 FPS | `YOLOv8` `OpenCV` `Deep Learning` |
-| 🛡️ [SafeRAG](https://github.com/Jainil570/SafeRAG) | Experimenting with safer, more grounded retrieval-augmented generation | `Python` `RAG` |
-| 📈 [Crypto Sentiment Trading Analysis](https://github.com/Jainil570/crypto-sentiment-trading-analysis) | Quantifying "buy the fear" — trader behavior across market sentiment regimes | `Data Analysis` `NLP` |
-| 🎭 [FilterFlix](https://github.com/Jainil570/FilterFlix2) | Real-time AR filters on live video via a decoupled microservice architecture | `Flask` `Computer Vision` |
-| 🧠 [Custom Object Detection from Scratch](https://github.com/Jainil570/Custom-Object-Detection-Model-From-Scratch) | Built a YOLO-style detector from first principles, no high-level wrappers | `OpenCV` `Python` |
-| 🩺 [Epileptic Seizure Recognition](https://github.com/Jainil570/EpilepticSeizureRecognition) | EEG time-series analysis to predict and recognize seizures | `ML` `Time Series` |
+|  [TMDB Movieflix Chatbot](https://github.com/Jainil570/TMDB-Movieflix-Chatbot) | Conversational movie-discovery engine that understands vibe, not just keywords | `Python` `LLM` `RAG` `FAISS` |
+|  [TalentScout](https://github.com/Jainil570/TalentScout) | Conversational AI hiring assistant that generates custom technical challenges | `Streamlit` `Python` `LLM` |
+|  [Financial Document Analyzer](https://github.com/Jainil570/Financial-Document-Analyzer) | CrewAI agent dissecting financial PDFs via an async worker queue | `CrewAI` `Redis` `Celery` |
+|  [PCB Defect Detection](https://github.com/Jainil570/PCB-Defect-Detection) | YOLOv8-based defect scanner running industrial inspection at 140 FPS | `YOLOv8` `OpenCV` `Deep Learning` |
+|  [SafeRAG](https://github.com/Jainil570/SafeRAG) | Experimenting with safer, more grounded retrieval-augmented generation | `Python` `RAG` |
+|  [Crypto Sentiment Trading Analysis](https://github.com/Jainil570/crypto-sentiment-trading-analysis) | Quantifying "buy the fear" — trader behavior across market sentiment regimes | `Data Analysis` `NLP` |
+|  [FilterFlix](https://github.com/Jainil570/FilterFlix2) | Real-time AR filters on live video via a decoupled microservice architecture | `Flask` `Computer Vision` |
+|  [Custom Object Detection from Scratch](https://github.com/Jainil570/Custom-Object-Detection-Model-From-Scratch) | Built a YOLO-style detector from first principles, no high-level wrappers | `OpenCV` `Python` |
+|  [Epileptic Seizure Recognition](https://github.com/Jainil570/EpilepticSeizureRecognition) | EEG time-series analysis to predict and recognize seizures | `ML` `Time Series` |
 
 </details>
 
 ---
 
-## 💼 Operations Log
+##  Operations Log
 
 ```text
 Jan 2026 – Present     Data Researcher Intern @ Collegedunia
@@ -196,33 +196,19 @@ Jun 2024 – Jul 2024     Data Analytics Intern @ IBM SkillsBuild (CSRBOX)
                         → ML models improved forecast reliability by 97%
 ```
 
----
 
-## 📊 GitHub Stats
+##  Education & Certifications
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jainil570&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainil570&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainil570&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jainil570&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.E. Computer Engineering** — Government Engineering College, Bharuch (CGPA: 8.74) · Expected May 2026
-- 📜 Generative AI Intensive Course — **Google**
-- 📜 Introduction to Data Analysis — **IBM**
-- 📜 Introduction to Databases with SQL — **Harvard University**
+-  **B.E. Computer Engineering** — Government Engineering College, Bharuch (CGPA: 8.74) · Expected May 2026
+-  Generative AI Intensive Course — **Google**
+-  Introduction to Data Analysis — **IBM**
+-  Introduction to Databases with SQL — **Harvard University**
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Build Something
+##  Let's Build Something
 
 I'm always up for a conversation about **agentic AI, RAG pipelines, or a genuinely interesting problem worth solving**. If you're working on something in this space — or just want to jam on ideas — my inbox is open.
 
