@@ -217,8 +217,6 @@ I'm always up for a conversation about **agentic AI, RAG pipelines, or a genuine
 
 <br/><br/>
 
-*"Why do we fall? So that we can learn to pick our grades back up."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
