@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Building+Agentic+AI+%26+RAG+systems;LangGraph+%7C+LLMs+%7C+Computer+Vision;Kaggle+Rank+Contributor+%7C+20%2B+notebooks;Turning+%22it+works+on+my+machine%22+into+production;Open+to+collaborate+on+AI+%2F+ML+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 <br/>
 
 <a href="https://www.linkedin.com/in/jainil-patel-065915262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
