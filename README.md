@@ -40,48 +40,6 @@ class JainilPatel:
 
 ---
 
-##  Tech Arsenal
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,mysql" />
-
-**AI / LLM Stack**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/vLLM-4B8BBE?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-**Vector DBs & Retrieval**
-<br/>
-<img src="https://img.shields.io/badge/FAISS-3776AB?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weaviate-1A1A2E?style=flat-square&logoColor=white"/>
-
-**Deep Learning & CV**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-
-**MLOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,aws,gcp,azure,redis,kafka,linux,git" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-
-</div>
-
----
-
 ##  Featured Builds
 
 <table>
