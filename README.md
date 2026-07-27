@@ -34,7 +34,7 @@ class JainilPatel:
 ```
 
 -  **Kaggle Rank Contributor** — 20+ notebooks, 6+ datasets published
--  **IEEE InfoPixel Clash Hackathon** — 2nd Rank &nbsp;|&nbsp; 🏁 **IEEE SSH 2024** — National Finalist &nbsp;|&nbsp; 🎯 **ICPC Amritapuri Regional** — Qualified
+-  **IEEE InfoPixel Clash Hackathon** — 2nd Rank &nbsp;|&nbsp;  **IEEE SSH 2024** — National Finalist &nbsp;|&nbsp;  **ICPC Amritapuri Regional** — Qualified
 -  Co-authoring a research paper currently under editorial review
 -  SSIP Grant Recipient
 
