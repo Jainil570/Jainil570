@@ -22,23 +22,21 @@
 ```python
 class JainilPatel:
     def __init__(self):
-        self.role         = "AI Engineer @ Ginn Techlabs | Generative AI Engineer @ Ginn Techlabs"
+        self.role         = "Generative AI Engineer @ Ginn Techlabs"
         self.location     = "Ahmedabad, India"
         self.education    = "B.E. Computer Engineering — GEC Bharuch (CGPA: 8.74)"
-        self.focus        = ["Agentic AI (LangGraph)", "RAG Architectures", "LLM Fine-tuning", "Computer Vision"]
-        self.currently    = "Shipping production-grade AI systems that don't hallucinate (much)"
+        self.focus        = ["Agentic AI", "RAG", "LLM", "Fine-tuning", "Quantization", "ML/DL", "Computer Vision"]
+        self.currently    = "Shipping production-grade AI systems"
         self.open_to      = ["AI/ML collaborations", "Open-source contributions", "Research discussions"]
 
     def say_hi(self):
         return "jainilpatel738@gmail.com"
 ```
 
--  Building **agentic pipelines, RAG systems, and CV models** that go beyond the notebook and into production
 -  **Kaggle Rank Contributor** — 20+ notebooks, 6+ datasets published
 -  **IEEE InfoPixel Clash Hackathon** — 2nd Rank &nbsp;|&nbsp; 🏁 **IEEE SSH 2024** — National Finalist &nbsp;|&nbsp; 🎯 **ICPC Amritapuri Regional** — Qualified
 -  Co-authoring a research paper currently under editorial review
--  Ask me about **LangGraph, RAG pipelines, LoRA/QLoRA fine-tuning, or vector databases**
--  Fun fact: I've turned Batman into an exam assistant and taught a model to read sign language
+-  SSIP Grant Recipient
 
 ---
 
